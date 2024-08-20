@@ -1,1 +1,4 @@
-export const schemaTypes = []
+import keywords from './keywords'
+export const schemaTypes = [
+  keywords
+]
